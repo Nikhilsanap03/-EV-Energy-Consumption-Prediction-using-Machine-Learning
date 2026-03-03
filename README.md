@@ -1,0 +1,2 @@
+# -EV-Energy-Consumption-Prediction-using-Machine-Learning
+This project demonstrates how Machine Learning can be used as a **surrogate model** to approximate physics-based electric vehicle (EV) energy consumption calculations.  Instead of repeatedly solving vehicle dynamics equations, a trained ML model can quickly predict energy consumption (Wh/km), making it suitable for real-time applications such as:
